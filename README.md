@@ -1,7 +1,7 @@
 ### Olá! Eu sou Dener Barros 👋
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estou aprimorando meus conhecimentos em ReactJS e Typescript
+- 🔭 Hoje trabalho com Front-end e estou estudando Back-end Node.JS
+- 🌱 Estou aprimorando meus conhecimentos em NodeJs
 - 📫 Contate-me no e-mail denerbarros.eng@gmail.com
 
 <div align="center">
@@ -15,7 +15,8 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
  </div>
 <br>
 <br>
