@@ -1,6 +1,6 @@
 ### Olá! Eu sou Dener Barros 👋
 
-- 🔭 Hoje trabalho com Front-end e estou estudando Back-end Node.JS
+- 🔭 Hoje trabalho com Front-end ReactJS e estou estudando Back-end Node.JS
 - 🌱 Estou aprimorando meus conhecimentos em NodeJs pelo Ignite da RocketSeat
 - 📫 Contate-me no e-mail denerbarros.eng@gmail.com
 
