@@ -8,7 +8,7 @@
   <a href="https://github.com/DenerBarros">  
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenerBarros&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerBarros&layout=compact&langs_count=7&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerBarros&layout=compact&langs_count=7&theme=radical"/>  
 </div>
 
 <div style="display: inline_block" align-itens:"center"><br>
