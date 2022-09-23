@@ -19,7 +19,7 @@
   <img align="center" alt="Dener-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Dener-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dener-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Dener-CSS" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Dener-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
  </div>
 <br>
 <br>
