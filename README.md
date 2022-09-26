@@ -3,6 +3,13 @@
 - 🔭 Hoje trabalho com Front-end ReactJS e estou estudando Back-end Node.JS (Full Stack Javascript)
 - 🌱 Estou aprimorando meus conhecimentos em NodeJs pelo Ignite da RocketSeat
 - 📫 Contate-me no e-mail denerbarros.eng@gmail.com
+### Stack Atual
+- Linguagem principal: Javascript
+- Frontend: `ReactJS` `HTML5`, `CSS3`, `Javascript`
+- Design de layout: `Figma`
+- Backend: `NodeJS`
+- Controle de versionamento: `Git & Github`
+- Ferramentas: `Vscode`, `Markdown`
 
 <div align="center">
   <a href="https://github.com/DenerBarros">  
