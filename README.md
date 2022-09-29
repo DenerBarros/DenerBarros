@@ -4,7 +4,7 @@
 - 🌱 Estou aprimorando meus conhecimentos em NodeJs pelo Ignite da RocketSeat
 - 📫 Contate-me no e-mail denerbarros.eng@gmail.com
 ### Stack Atual
-- Linguagem principal: Javascript
+- Linguagem principal: `Javascript`
 - Frontend: `ReactJS` `HTML5`, `CSS3`, `Javascript`
 - Design de layout: `Figma`
 - Backend: `NodeJS`
