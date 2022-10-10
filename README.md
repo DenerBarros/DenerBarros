@@ -1,7 +1,7 @@
 ### Olá! Eu sou Dener Barros 👋
 
-- 🔭 Hoje trabalho com Front-end ReactJS e estou estudando Back-end Node.JS (Full Stack Javascript)
-- 🌱 Estou aprimorando meus conhecimentos em NodeJs pelo Ignite da RocketSeat
+- 🔭 Desenvolvedor FullStack JavaScript com Foco em ReactJS e NodeJS.
+- 🌱 Estou estudando back-end em Java e Springboot
 - 📫 Contate-me no e-mail denerbarros.eng@gmail.com
 ### Stack Atual
 - Linguagem principal: `Javascript`
